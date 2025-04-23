@@ -42,7 +42,7 @@
 
 # Image
 
-![alt text](/assets/images/image.jpg)
+![alt text](/github-pages-test/assets/images/image.jpg)
 
 # Table
 
