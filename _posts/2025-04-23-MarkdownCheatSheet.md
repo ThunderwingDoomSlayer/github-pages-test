@@ -42,7 +42,7 @@
 
 # Image
 
-![alt text](/docs/assets/image.jpg)
+![alt text](/assets/images/image.jpg)
 
 # Table
 
